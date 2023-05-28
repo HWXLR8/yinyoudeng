@@ -1,3 +1,5 @@
+# 音游灯
+
 <p float="left">
   <img src="pcb/pics/pcb_front.png" height="500">
   <img src="pcb/pics/pcb_side.png" height="500">
@@ -17,3 +19,5 @@ BOM:
 ```
 Special thanks to Tim (cpldcpu) for the <a href="https://github.com/cpldcpu/light_ws2812">implementation of
 the WS2812 protocol</a>.
+
+享受音游 享受生活
