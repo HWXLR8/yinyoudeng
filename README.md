@@ -17,6 +17,8 @@ BOM:
 1 4x4x1.5mm tactile SMD tactile push button
 1 WS2812 LED on PCB with res+cap
 ```
+PCBs should be manufactured at 2.0mm thickness instead of standard 1.6mm.
+
 Special thanks to Tim (cpldcpu) for the <a href="https://github.com/cpldcpu/light_ws2812">implementation of
 the WS2812 protocol</a>.
 
