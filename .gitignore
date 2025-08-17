@@ -1,11 +1,7 @@
-fw/obj
-fw/*.bin
-fw/*.eep
 fw/*.elf
 fw/*.hex
 fw/*.lss
 fw/*.map
-fw/*.sym
 
 pcb/*-backups
 pcb/*.kicad_prl
